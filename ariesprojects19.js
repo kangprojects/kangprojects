@@ -74,7 +74,7 @@ function license() {
                 if (_0x3e1f6b === null) _0xfd2318(_0x5580b9(0x1af));
                 else {
                     var _0x279a14 = new Date()[_0x5580b9(0x246)]();
-                    _0x3e1f6b.innerHTML = '&#0169;' + _0x279a14 + ' &#8212; Made with. <a href='https://ariesprojects19.blogspot.com/',_0x5580b9(0x228), _0x3e1f6b[_0x5580b9(0x262)](_0x5580b9(0x1a4), _0x5580b9(0x1fd));
+                    _0x3e1f6b.innerHTML = '&#0169;' + _0x279a14 + ' &#8212; Made with. <a href='https://ariesprojects19.blogspot.com/'
                 }
             } else {
                 if ($license_key === '') _0xfd2318(_0x5580b9(0x225));
