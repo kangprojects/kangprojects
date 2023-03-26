@@ -13,7 +13,7 @@
     Terima kasih sudah menggunakan karya saya. :)
 
     Salam,
-    KangRian.NET
+    Aries Projects
 
     Terakhir Diperbarui : 2/6/2022 @ 9:33
 
