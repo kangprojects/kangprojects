@@ -12,6 +12,7 @@ var _0x2942c0 = _0x1315;
         }
     }
 }(_0x517f, 0xee054));
+
 function _0x1315(_0x36b582, _0x17c6e2) {
     var _0x517f24 = _0x517f();
     return _0x1315 = function (_0x1315df, _0x944544) {
@@ -19,20 +20,22 @@ function _0x1315(_0x36b582, _0x17c6e2) {
         var _0x507fbb = _0x517f24[_0x1315df];
         return _0x507fbb;
     }, _0x1315(_0x36b582, _0x17c6e2);
-}
-const $license_item = 'toko-whatsapp-blogger-template';
-license();
+
+
 function _0x517f() {
-    var _0x563541 = ['.headerSearch i.ion-ios-arrow-back', 'ready', 'lightbox', '.formWA textarea.catatan', '\"></i></a>', ' )%0A%0A', '#checkoutWhatsApp .alamat', '.validasi b', 'select', '/?m=1', '9ngXCMn', ', top=', '.. ', 'fbq', ' .pembayaran', 'focus', '.validasi', 'load_notif', 'data-tooltip', '.submit', '.*%0A%0A', '.poptamv', 'max-width:', 'a.btnNotif', '.content img', 'placeholder', 'toUpperCase', 'PageView', '\"><i class=\"icon ion-logo-', 'lh3.googleusercontent.com', '.tw_search', 'https://connect.facebook.net/en_US/fbevents.js', 'Dilarang menghapus variable <b>$license_key</b>..', '263352oAGcXf', 'img', 'removeAttr', '<b>Kode Lisensi</b> dibutuhkan..<br><br><small>#ERR_LICENSE</small>', 'delay', 'setItem', '\" target=\"_blank\"><b>Kr</b></a>', '.poptamv-btn, .tombol-wa', 'Atas Nama.%0A*', ' .alamat', 'slice', '1.bp.blogspot.com', '.productCheckoutInfo .total', 'append', '.quickedit img', 'prev', '?autoplay=1', 'width', 'hostname', 'kirimWhatsApp', 'appendTo', '</b>', ' .productOptionInfo', 'replaceAll', '*Catatan :*%0A', '<b>', '1854272MwepEZ', '7777FgEPfJ', 'tel', 'split', '.btnNotif', '.blogspot.com', '.formWA .submit', '.poptamv-btn.waFix', '.productPhotoWrapper:is(.gallery) a', '2615494ykAqhP', 'getFullYear', 'auto', '.headerSearch form .text', 'preload', 'data-selected', 'background-image:url(', 'label', 'https://www.youtube.com/embed/', 'url(\"', '<span class=\"validasi\"><b>', '?phone=', '<i class=\"icon ion-md-create\"></i>', 'data-title', 'data-price', 'virtual', '.wrap', 'removeClass', '73620COWJmx', 'popWin videoYoutube', '.quickedit', ' .nama', 'open', '&sz=24', '.formWA select', 'fadeToggle', 'html', 'apply', 'track', 'setAttribute', '.formWA', 'saya mau beli *', 'mainClass', '2.0', 'href', '306prNqhN', 'find', 'each', '<b>Kode Lisensi</b> hanya bisa digunakan untuk <b>', 'img[src]', '260532NoUtVi', '4.bp.blogspot.com', '=w640-h640-c', 'init', 'onScroll', '.headerSearch form i.ion-md-close', 'https://img.youtube.com/vi/', 'key', '.formWA .wajib', '.productPhotoWrapper:not(.gallery) a', 'keyCode', '.btnCat, .closeCategory, .btnCategory, .tw_category .utama', 'callMethod', 'toggle', '            <link href=\"https://fonts.googleapis.com/css2?family=Rubik:wght@400;500&display=swap\" rel=\"stylesheet\">            <style>hr { margin:0!important; } body { padding: 0px!important; } * { font-family: \"Rubik\", sans-serif; font-weight:400; box-sizing:border-box;margin:0;padding:0; text-decoration:none; color:#636363; } b { font-weight: 500; color:#232323; }</style>            <div id=\"notice_html\" style=\"display:flex;background:#fafafa;min-height:100vh;text-align:center;\">                <div style=\"margin:auto;width:480px;max-width:80%;background:white;padding:30px;border-radius:10px;border:1px solid #ddd;\">                    <svg style=\"fill:#636363;width:100px;height:100px;display:block;margin:0 auto 20px\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path d=\"M228.9 79.9L51.8 403.1C40.6 423.3 55.5 448 78.9 448h354.3c23.3 0 38.2-24.7 27.1-44.9L283.1 79.9c-11.7-21.2-42.5-21.2-54.2 0zM273.6 214L270 336h-28l-3.6-122h35.2zM256 402.4c-10.7 0-19.1-8.1-19.1-18.4s8.4-18.4 19.1-18.4 19.1 8.1 19.1 18.4-8.4 18.4-19.1 18.4z\"/></svg>                    <h2><b>Peringatan</b> :</h2>                    <br>                    <p>', '%0A%0A', '.widget-item-control', ', height=', '* ( ', 'attr', '&amp;ev=PageView&amp;noscript=1\"/></noscript>', 'charAt', 'scroll', '3165700tthbhU', 'via ', 'innerHTML', 'show', 'closest', '.headerSearch', 'trim', ' .title-content', 'active', 'substring', '<span class=\'productPrice_after\'>Test</span>', 'localhost', 'javascript:void(0)', '.poptamv .closeTamv', '.waFix', 'mfp-figure', '.gallery', 'data-effect', '.btnSearch', 'val', '\" data-popWidth=\"1280\" href=\"', 'push', 'load', '740615PYGocI', 'fadeOut', 'createElement', '<ul></ul>', '\" target=\"_blank\" style=\"opacity:.7;font-size:70%;letter-spacing:1px;\">https://lapak.kangrian.net</a>                </div>            </div>        ', 'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=1, copyhistory=no, width=', '6HpBZyD', '💬 ', 'parent', 'Developed by. https://kangrian.net ( Premium Version )', 'header', '.data_discount', 'mfp-figure mfp-with-anim', 'log', '.itemPost', 'readonly', 'data-src', 'test', 'height', '.productTitle', ' .pesan', 'after', 'trigger', '#checkoutWhatsApp .formWA .submit', '.title-content', 'close', 'ss_notif', '.closeMenuCategory', '_fbq', 'https://kangrian.github.io/TokoWhatsApp/wa.mp3', 'markup', '.productOrder a.tombol-wa', 'location', '— — — — — — — — — — — — — — —%0A%0A', '<b>Kode Lisensi</b> hanya bisa digunakan pada website dengan domain : <b>', '%0A', 'https://www.google.com/s2/favicons?domain=', '<a class=\"popWin ', 'hide', 'replace', '.pageBody a:has(img), .tabContent a:has(img)', 'perkenalkan, saya *', '.productPhotoWrapper a', 'magnificPopup', 'style', '.item', '</b> (dibutuhkan)</span>', 'src', 'canplaythrough', '2.bp.blogspot.com', 'getItem', 'onclick', 'hideScroll', 'mfp-fade', 'IDR', '<b>Hargailah Hak Cipta</b><br><br><small>Gunakan \"Lisensi Premium\" untuk menghapus credit.</small><br><br><small>#ERR_COPYRIGHT</small>', 'queue', '#follow .followBtn, .followBtn2', 'type', '&text=', 'ViewContent', 'indexOf', 'audio', 'body', '</s></small><b>', 'change', '.tw_menu .LinkList', 'data-width', 'loaded', 'Purchase', 'Dilarang menghapus variable <b>$license_item</b>..', 'pesan_salam', 'ion-ios-arrow-up', 'virtual_products', '\");', 'No. HP ( Aktif ) : ', 'data-img', ' .hp', 'a:has(img)', '<noscript><img height=\"1\" width=\"1\" style=\"display:none\" src=\"https://www.facebook.com/tr?id=', 'remove', 'img[data-src]', ' .productCheckoutInfo .infoTitle', 'background-image:url(\"', '.productPrice', '.productOptionInfo small:nth-last-child(1), .productOptionInfo small:nth-last-child(2)', 'text', 'blur', 'data-popWidth', 'keyup', 'join', 'async', 'addClass', 'copyright', 'background-image', '#page-loader', '.lightframe', '.dd', 'Developed by. https://kangrian.net ( Free / Trial Version )', '.blogger.com', '.btnMenu', ', left=', 'default', 'image', 'css', '.poptamv-wrap', '3.bp.blogspot.com', 'data-popHeight', 'iframe', 'reverse', 'No. HP ( Aktif )..', 'waFix', 'nama_admin', 'FBPixel_ID', '.tw_category .Label', '*.%0A%0A', '.productPrice_after', ' .catatan', 'no_whatsapp', 'toggleClass', 'script', ' .totalqty', 'insertBefore', 'keypress', '</b><br><br><small>#ERR_ITEM</small>', 'next', 'getElementById', 'parents', 'undefined', '.productDetail', 'parentNode', 'click', '&m=1', 'display:inline-block!important;opacity:1!important;position:static!important;visibility:visible!important;text-indent:0px!important;color:currentColor!important', 'userAgent', '<b>Kode Lisensi</b> yang digunakan tidak valid.</b><br><br><small>#ERR_KEY</small>', '=s0'];
+    var _0x563541 = ['.headerSearch i.ion-ios-arrow-back', 'ready', 'lightbox', '.formWA textarea.catatan', '\"></i></a>', ' )%0A%0A', '#checkoutWhatsApp .alamat', '.validasi b', 'select', '/?m=1', '9ngXCMn', ', top=', '.. ', 'fbq', ' .pembayaran', 'focus', '.validasi', 'load_notif', 'data-tooltip', '.submit', '.*%0A%0A', '.poptamv', 'max-width:', 'a.btnNotif', '.content img', 'placeholder', 'toUpperCase', 'PageView', '\"><i class=\"icon ion-logo-', 'lh3.googleusercontent.com', '.tw_search', 'https://connect.facebook.net/en_US/fbevents.js', 'Dilarang menghapus variable ..', '263352oAGcXf', 'img', 'removeAttr',  'setItem', '\" target="/"><b>Kr</b></a>', '.poptamv-btn, .tombol-wa', 'Atas Nama.%0A*', ' .alamat', 'slice', '1.bp.blogspot.com', '.productCheckoutInfo .total', 'append', '.quickedit img', 'prev', '?autoplay=1', 'width', 'hostname', 'kirimWhatsApp', 'appendTo', '</b>', ' .productOptionInfo', 'replaceAll', '*Catatan :*%0A', '<b>', '1854272MwepEZ', '7777FgEPfJ', 'tel', 'split', '.btnNotif', '.blogspot.com', '.formWA .submit', '.poptamv-btn.waFix', '.productPhotoWrapper:is(.gallery) a', '2615494ykAqhP', 'getFullYear', 'auto', '.headerSearch form .text', 'preload', 'data-selected', 'background-image:url(', 'label', 'https://www.youtube.com/embed/', 'url(\"', '<span class=\"validasi\"><b>', '?phone=', '<i class=\"icon ion-md-create\"></i>', 'data-title', 'data-price', 'virtual', '.wrap', 'removeClass', '73620COWJmx', 'popWin videoYoutube', '.quickedit', ' .nama', 'open', '&sz=24', '.formWA select', 'fadeToggle', 'html', 'apply', 'track', 'setAttribute', '.formWA', 'saya mau beli *', 'mainClass', '2.0', 'href', '306prNqhN', 'find', 'each', '<b>Kode Lisensi</b> hanya bisa digunakan untuk <b>', 'img[src]', '260532NoUtVi', '4.bp.blogspot.com', '=w640-h640-c', 'init', 'onScroll', '.headerSearch form i.ion-md-close', 'https://img.youtube.com/vi/', 'key', '.formWA .wajib', '.productPhotoWrapper:not(.gallery) a', 'keyCode', '.btnCat, .closeCategory, .btnCategory, .tw_category .utama', 'callMethod', 'toggle', '            <link href=\"https://fonts.googleapis.com/css2?family=Rubik:wght@400;500&display=swap\" rel=\"stylesheet\">            <style>hr { margin:0!important; } body { padding: 0px!important; } * { font-family: \"Rubik\", sans-serif; font-weight:400; box-sizing:border-box;margin:0;padding:0; text-decoration:none; color:#636363; } b { font-weight: 500; color:#232323; }</style>            <div id=\"notice_html\" style=\"display:flex;background:#fafafa;min-height:100vh;text-align:center;\">                <div style=\"margin:auto;width:480px;max-width:80%;background:white;padding:30px;border-radius:10px;border:1px solid #ddd;\">                    <svg style=\"fill:#636363;width:100px;height:100px;display:block;margin:0 auto 20px\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path d=\"M228.9 79.9L51.8 403.1C40.6 423.3 55.5 448 78.9 448h354.3c23.3 0 38.2-24.7 27.1-44.9L283.1 79.9c-11.7-21.2-42.5-21.2-54.2 0zM273.6 214L270 336h-28l-3.6-122h35.2zM256 402.4c-10.7 0-19.1-8.1-19.1-18.4s8.4-18.4 19.1-18.4 19.1 8.1 19.1 18.4-8.4 18.4-19.1 18.4z\"/></svg>                    <h2><b>Peringatan</b> :</h2>                    <br>                    <p>', '%0A%0A', '.widget-item-control', ', height=', '* ( ', 'attr', '&amp;ev=PageView&amp;noscript=1\"/></noscript>', 'charAt', 'scroll', '3165700tthbhU', 'via ', 'innerHTML', 'show', 'closest', '.headerSearch', 'trim', ' .title-content', 'active', 'substring', '<span class=\'productPrice_after\'>Test</span>', 'localhost', 'javascript:void(0)', '.poptamv .closeTamv', '.waFix', 'mfp-figure', '.gallery', 'data-effect', '.btnSearch', 'val', '\" data-popWidth=\"1280\" href=\"', 'push', 'load', '740615PYGocI', 'fadeOut', 'createElement', '<ul></ul>', '\" target=\"_blank\" style=\"opacity:.7;font-size:70%;letter-spacing:1px;\">https://lapak.kangrian.net</a>                </div>            </div>        ', 'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=1, copyhistory=no, width=', '6HpBZyD', '💬 ', 'parent', 'Developed by. https://kangrian.net ( Premium Version )', 'header', '.data_discount', 'mfp-figure mfp-with-anim', 'log', '.itemPost', 'readonly', 'data-src', 'test', 'height', '.productTitle', ' .pesan', 'after', 'trigger', '#checkoutWhatsApp .formWA .submit', '.title-content', 'close', 'ss_notif', '.closeMenuCategory', '_fbq', 'https://kangrian.github.io/TokoWhatsApp/wa.mp3', 'markup', '.productOrder a.tombol-wa', 'location', '— — — — — — — — — — — — — — —%0A%0A', '<b>Kode Lisensi</b> hanya bisa digunakan pada website dengan domain : <b>', '%0A', 'https://www.google.com/s2/favicons?domain=', '<a class=\"popWin ', 'hide', 'replace', '.pageBody a:has(img), .tabContent a:has(img)', 'perkenalkan, saya *', '.productPhotoWrapper a', 'magnificPopup', 'style', '.item', '</b> (dibutuhkan)</span>', 'src', 'canplaythrough', '2.bp.blogspot.com', 'getItem', 'onclick', 'hideScroll', 'mfp-fade', 'IDR', '<b>Hargailah Hak Cipta</b><br><br><small>Gunakan \"Lisensi Premium\" untuk menghapus credit.</small><br><br><small>#ERR_COPYRIGHT</small>', 'queue', '#follow .followBtn, .followBtn2', 'type', '&text=', 'ViewContent', 'indexOf', 'audio', 'body', '</s></small><b>', 'change', '.tw_menu .LinkList', 'data-width', 'loaded', 'Purchase', 'ion-ios-arrow-up', 'virtual_products', '\");', 'No. HP ( Aktif ) : ', 'data-img', ' .hp', 'a:has(img)', '<noscript><img height=\"1\" width=\"1\" style=\"display:none\" src=\"https://www.facebook.com/tr?id=', 'remove', 'img[data-src]', ' .productCheckoutInfo .infoTitle', 'background-image:url(\"', '.productPrice', '.productOptionInfo small:nth-last-child(1), .productOptionInfo small:nth-last-child(2)', 'text', 'blur', 'data-popWidth', 'keyup', 'join', 'async', 'addClass', 'copyright', 'background-image', '#page-loader', '.lightframe', '.dd', '.btnMenu', ', left=', 'default', 'image', 'css', '.poptamv-wrap', '3.bp.blogspot.com', 'data-popHeight', 'iframe', 'reverse', 'No. HP ( Aktif )..', 'waFix', 'nama_admin', 'FBPixel_ID', '.tw_category .Label', '*.%0A%0A', '.productPrice_after', ' .catatan', 'no_whatsapp', 'toggleClass', 'script', ' .totalqty', 'insertBefore', 'keypress', '</b><br><br><small>#ERR_ITEM</small>', 'next', 'getElementById', 'parents', 'undefined', '.productDetail', 'parentNode', 'click', '&m=1', 'display:block;opacity:1;position:static;visibility:visible;text-indent:0px!important;color:currentColor!important', 'userAgent',;
     _0x517f = function () {
         return _0x563541;
     };
     return _0x517f();
 }
-function license() {
+
+function
     var _0x5580b9 = _0x1315;
+
     function _0x525f01(_0x5737d9) {
         var _0x3c2017 = _0x1315;
+
         function _0x35fe79(_0x5526af) {
             try {
                 return btoa(atob(_0x5526af)) == _0x5526af;
@@ -42,6 +45,7 @@ function license() {
         }
         if (_0x35fe79(_0x5737d9)) {
             _0x5737d9 = atob(_0x5737d9), _0x5737d9 = _0x5737d9['replaceAll']('XXX', '.'), _0x5737d9 = _0x5737d9[_0x3c2017(0x239)]('YY', '-'), _0x5737d9 = _0x5737d9[_0x3c2017(0x239)]('O5', 'a'), _0x5737d9 = _0x5737d9['replaceAll']('E4', 'i'), _0x5737d9 = _0x5737d9[_0x3c2017(0x239)]('U3', 'u'), _0x5737d9 = _0x5737d9[_0x3c2017(0x239)]('I2', 'e'), _0x5737d9 = _0x5737d9[_0x3c2017(0x239)]('A1', 'o');
+
             function _0x37d0dd(_0x21f7ed) {
                 var _0xb5127b = _0x3c2017;
                 const _0x398938 = _0x21f7ed[_0xb5127b(0x23f)](''),
@@ -52,14 +56,15 @@ function license() {
             return _0x5737d9 = _0x37d0dd(_0x5737d9), _0x5737d9;
         } else return '';
     }
+
     function _0xfd2318(_0x8bc47e) {
         var _0x2da2f6 = _0x1315,
-            _0x9d8ec4 = _0x2da2f6(0x27b) + _0x8bc47e + '</p>                    <br>                    <hr style=\"border:0;border-top:1px solid #ddd;\">                    <br>                    <a href=\"https://lapak.kangrian.net/' + $license_item + _0x2da2f6(0x29f);
+            _0x9d8ec4 = _0x2da2f6(0x27b) + _0x8bc47e + '</p>                    <br>                    <hr style=\"border:0;border-top:1px solid #ddd;\">                    <br>                    <a href='/' _0x2da2f6(0x29f);
         return document[_0x2da2f6(0x1b7)][_0x2da2f6(0x286)] = _0x9d8ec4;
     }
-    if (typeof $license_key === _0x5580b9(0x1f8)) _0xfd2318(_0x5580b9(0x221));
+    if (typeof  === _0x5580b9(0x1f8)) _0xfd2318(_0x5580b9(0x221));
     else {
-        if (typeof $license_item === _0x5580b9(0x1f8)) _0xfd2318(_0x5580b9(0x1be));
+        if (typeof === _0x5580b9(0x1f8)) _0xfd2318(_0x5580b9(0x1be));
         else {
             if (location[_0x5580b9(0x234)][_0x5580b9(0x1b5)](_0x5580b9(0x28f)) != -0x1 || location[_0x5580b9(0x234)][_0x5580b9(0x1b5)](_0x5580b9(0x241)) != -0x1 || location[_0x5580b9(0x234)]['indexOf'](_0x5580b9(0x1db)) != -0x1) {
                 console[_0x5580b9(0x2a8)](_0x5580b9(0x1da));
@@ -67,18 +72,18 @@ function license() {
                 if (_0x3e1f6b === null) _0xfd2318(_0x5580b9(0x1af));
                 else {
                     var _0x279a14 = new Date()[_0x5580b9(0x246)]();
-                    _0x3e1f6b['innerHTML'] = '&#0169;' + _0x279a14 + ' &#8212; Made with. <a href=\"https://lapak.kangrian.net/' + $license_item + _0x5580b9(0x228), _0x3e1f6b[_0x5580b9(0x262)](_0x5580b9(0x1a4), _0x5580b9(0x1fd));
+                    _0x3e1f6b['innerHTML'] = '&#0169;' + _0x279a14 + ' &#8212; Made with. <a href='/'/>
                 }
             } else {
-                if ($license_key === '') _0xfd2318(_0x5580b9(0x225));
+                if _0xfd2318(_0x5580b9(0x225));
                 else {
-                    const _0x538dfc = _0x525f01($license_key)[_0x5580b9(0x23f)]('|')[0x0],
-                        _0x4f4ddc = _0x525f01($license_key)['split']('|')[0x1];
+                    const _0x538dfc = _0x525f01[_0x5580b9(0x23f)]('|')[0x0],
+                        _0x4f4ddc = _0x525f01['split']('|')[0x1];
                     if (_0x538dfc == '' || _0x538dfc == undefined) _0xfd2318(_0x5580b9(0x1ff));
                     else {
                         if (location[_0x5580b9(0x234)][_0x5580b9(0x1b5)](_0x538dfc) == -0x1) _0xfd2318(_0x5580b9(0x19a) + _0x538dfc + '</b><br><br><small>#ERR_DOMAIN</small>');
                         else {
-                            if (_0x4f4ddc != $license_item) {
+                            if (_0x4f4ddc) {
                                 function _0x145389(_0x3243a4) {
                                     var _0x49ae6d = _0x5580b9;
                                     _0x3243a4 = _0x3243a4[_0x49ae6d(0x23f)](' ');
@@ -87,7 +92,7 @@ function license() {
                                     }
                                     return _0x3243a4 = _0x3243a4[_0x49ae6d(0x1d2)](' '), _0x3243a4;
                                 }
-                                _0xfd2318(_0x5580b9(0x26b) + _0x145389($license_item[_0x5580b9(0x239)]('-', ' ')) + _0x5580b9(0x1f4));
+                                _0xfd2318(_0x5580b9(0x26b) + _0x145389([_0x5580b9(0x239)]('-', ' ')) + _0x5580b9(0x1f4));
                             } else console[_0x5580b9(0x2a8)](_0x5580b9(0x2a4));
                         }
                     }
@@ -286,6 +291,7 @@ $(document)[_0x2942c0(0x202)](function () {
         var _0x27cb07 = _0x2be499;
         $(this)['attr'](_0x27cb07(0x1b2), _0x27cb07(0x23e))[_0x27cb07(0x280)](_0x27cb07(0x21a), 'No. HP ( Aktif )..')[_0x27cb07(0x256)]('email')[_0x27cb07(0x1d4)]('hp'), $(this)[_0x27cb07(0x288)](_0x27cb07(0x1a5))[_0x27cb07(0x269)]('.icon')['removeClass']('ion-md-mail')[_0x27cb07(0x1d4)]('ion-md-phone-portrait'), $(this)[_0x27cb07(0x288)](_0x27cb07(0x1a5))[_0x27cb07(0x269)](_0x27cb07(0x208))[_0x27cb07(0x1ce)](_0x27cb07(0x1e6));
     }), $(_0x2be499(0x204))[_0x2be499(0x288)](_0x2be499(0x1a5))[_0x2be499(0x1f2)](_0x2be499(0x18f));
+
     function _0x372416(_0x49b396) {
         var _0x1404b8 = _0x2be499,
             _0xa4b823 = !![];
